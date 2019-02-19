@@ -3,4 +3,4 @@ test
 
 var name = "Kuba"
 
-console.log(name)
+console.log("Hello" name)
